@@ -44,7 +44,7 @@ const Card =(props) => {
                             linkedCourses.includes(course.id) ? (<FcLike fontSize="1.75rem"/>) :  (<FcLikePlaceholder fontSize="1.75rem" />)
                         }
                             
-                    </button>
+                    </button>    
                    
                 </div>
 
